@@ -2,7 +2,7 @@ Term Rewriting Project
 
 Term rewriting is a branch of theoretical computer science which combines elements of logic, universal algebra, automated theorem proving and functional programming. It's foundation is equational logic.
 
-This project is explain visually some Term rewriting chapters in "Term Rewriting and all that" book published by Cambridge university press.
+This project is writen in Javascript using P5 library to explain visually some Term rewriting chapters in "Term Rewriting and all that" book published by Cambridge university press.
 
 Features on this project:
 1. Search for a node in the Tree.
